@@ -19,10 +19,10 @@ install the json-server
 
 ### Features
 
-[x] - list groups
-[x] - list messages from a specific group
-[x] - create a message in a specific group (because of json server, don't work. but if it was a real database it would have. you can check the network tab)
-[ ] create a group
-[ ] create users
-[ ] add authentication
-[ ] create more features
+- [x] - list groups
+- [x] - list messages from a specific group
+- [x] - create a message in a specific group (because of json server, don't work. but if it was a real database it would have. you can check the network tab)
+- [ ] create a group
+- [ ] create users
+- [ ] add authentication
+- [ ] create more features
