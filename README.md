@@ -15,7 +15,7 @@ install the json-server
 
 ### Frontend
 
-`npm run start` to run the front end.
+`npm run dev` to run the front end.
 
 ### Features
 
