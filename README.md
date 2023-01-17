@@ -17,6 +17,10 @@ install the json-server
 
 `npm run dev` to run the front end.
 
+### Screenshot
+
+![Screenshot](./public/Screenshot.png)
+
 ### Features
 
 - [x] - list groups

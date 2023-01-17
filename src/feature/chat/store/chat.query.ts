@@ -50,7 +50,6 @@ const chatQueryApi = appApi.injectEndpoints({
 
 export const {
   useGetMessagesQuery,
-  useGetUsersQuery,
   useGetGroupsQuery,
   useCreateMessageMutation,
   useCreateUserMutation,
