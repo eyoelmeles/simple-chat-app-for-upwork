@@ -1,0 +1,110 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "title": "Eyoel Philosphies",
+      "description": "Well organized, thought i have about what life is. Disclaimer, you might get existential problems.",
+      "messages": [
+        {
+          "id": 1,
+          "fromuserid": 2,
+          "touserid": 1,
+          "message": "this is the first message",
+          "time": "03:46"
+        },
+        {
+          "id": 2,
+          "fromuserid": 2,
+          "touserid": 1,
+          "message": "this is the first message",
+          "time": "05:30"
+        },
+        {
+          "id": 3,
+          "fromuserid": 1,
+          "touserid": 2,
+          "groupid": 3,
+          "message": "this is the first message",
+          "time": "11:24"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Females in Code",
+      "description": "About females in tech, which is run by a male, let's chat and motivate girls",
+      "messages": [
+        {
+          "id": 1,
+          "fromuserid": 1,
+          "touserid": 2,
+          "message": "this is the first message",
+          "time": "03:46"
+        },
+        {
+          "id": 2,
+          "fromuserid": 2,
+          "touserid": 1,
+          "message": "this is the first message",
+          "time": "05:30"
+        },
+        {
+          "id": 3,
+          "fromuserid": 1,
+          "touserid": 2,
+          "groupid": 3,
+          "message": "this is the first message",
+          "time": "11:24"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Fireside Chat",
+      "description": "I'm tired of comming up with group ideas, and specially writing a long description to make the ui get filled",
+      "messages": [
+        {
+          "id": 1,
+          "fromuserid": 1,
+          "touserid": 2,
+          "message": "this is the first message",
+          "time": "03:46"
+        },
+        {
+          "id": 2,
+          "fromuserid": 1,
+          "touserid": 2,
+          "message": "this is the first message",
+          "time": "05:30"
+        },
+        {
+          "id": 3,
+          "fromuserid": 2,
+          "touserid": 1,
+          "groupid": 3,
+          "message": "this is the first message",
+          "time": "11:24"
+        },
+        {
+          "message": "",
+          "id": "9ppLo3F7g8zsmpArh3WNr",
+          "fromuserid": 1,
+          "touserid": 2,
+          "time": "3 : 46: 39}"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Eyoel",
+      "photo": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+    },
+    {
+      "id": 2,
+      "username": "Eyoel",
+      "photo": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+    }
+  ]
+}
